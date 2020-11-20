@@ -18,7 +18,5 @@ Keywords — terrenos, precio, usd, m2, barrio, comuna
 
 LINK A :
  - DATASETS
- - POSTER PRESENTACIÓN
- - VÍDEO PRESENTACIÓN
  
  https://drive.google.com/drive/folders/1WRfJ3ODPseSICfaLyv0GhbOzAhJvdSvV?usp=sharing
